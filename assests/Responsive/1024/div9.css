@@ -37,7 +37,6 @@
     align-items: center;
     flex-wrap: wrap;
     width: 550px;
-    height: 500px;
     border-radius: 5px;
     /* box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15); */
     transition: 0.5s;

@@ -9,7 +9,6 @@
     display: flex;
     position: relative;
     width: 100%;
-    height: 100%;
     justify-content: center;
     align-items: center;
   }
@@ -20,7 +19,6 @@
 
   body > main > section:nth-child(8) > section > section:nth-child(1) {
     width: 510px;
-    height: 550px;
     position: relative;
     background-color: #343a40;
     box-shadow: 0 0 15px -5px #000000;
@@ -35,7 +33,6 @@
   body > main > section:nth-child(8) > section > section:nth-child(2) {
     position: relative;
     width: 800px;
-    height: 550px;
     background-color: #343a40;
     box-shadow: 0 0 20px -5px #000000;
     border-radius: 10px;
@@ -196,7 +193,6 @@
     position: relative;
     margin-left: 220px;
     margin-top: 65px;
-    height: 500px;
     width: 700px;
     border: none;
   }
@@ -230,7 +226,6 @@
     margin-top: 5px;
     position: absolute;
     width: 600px;
-    height: 40px;
     font-family: "Roboto", sans-serif;
     font-weight: lighter;
     font-size: 14px;
@@ -247,7 +242,6 @@
   }
 
   #message {
-    height: 100px;
   }
 
   body
@@ -271,7 +265,6 @@
     left: 370px;
     top: 70px;
     width: 95px;
-    height: 40px;
     font-family: "Akshar Unicode", sans-serif;
     font-weight: bolder;
     font-size: 13px;
